@@ -37,10 +37,6 @@ git clone https://github.com/yourusername/counter-app.git
 1. Click `-` to decrease the counter.
 1. Click `Reset` to reset the counter.
 
-## Customization
-- Update styles in `public/assets/css/style.css`.
-- Update behavior in `public/assets/js/index.js`.
-
 ## Roadmap
 - Persist counter state
 - Add keyboard shortcuts
